@@ -334,6 +334,7 @@
         android:textStyle="bold"
         android:typeface="sans" />
 
+
     <Button
         android:id="@+id/numdot"
         style="@style/Widget.AppCompat.Button.Borderless"
@@ -348,6 +349,7 @@
         android:textSize="18sp"
         android:textStyle="bold"
         android:typeface="sans" />
+
 
     <TextView
         android:id="@+id/intermRe"
